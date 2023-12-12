@@ -2,15 +2,12 @@
 - 🎮 I’m actively involved in Software Development, Game Development, Hardware Development, and R&D.🔬
 - 🖥️ When I'm not coding, I'm playing guitar 🎸, hiking 🥾🏞️ , or working on my next product.🖨️
 
-- ## 🔧 Skills & Technologies
+- Skills & Technologies:
 
-- JavaScript/TypeScript
-- React, Node.js
-- HTML, CSS, SASS
 - Python
-- C++
-- C
-- C#
+- HTML, CSS, PHP
+- JavaScript,TypeScript
+- C++,C,C#
 - PineScript
 
 
