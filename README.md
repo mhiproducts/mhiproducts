@@ -13,10 +13,6 @@
 - C#
 - PineScript
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhiproducts&show_icons=true&hide=stars&count_private=true)
-
 
 <!---
 mhiproducts/mhiproducts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
