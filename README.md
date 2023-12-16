@@ -2,13 +2,16 @@
 - 🎮 I’m actively involved in Software Development, Game Development, Hardware Development, and R&D.🔬
 - 🖥️ When I'm not coding, I'm playing guitar 🎸, hiking 🥾🏞️ , or working on my next product.🖨️
 
-- Skills & Technologies:
+- Programming Languages/Software I Use Frequently:
 
-- Python
-- HTML, CSS, PHP
-- JavaScript,TypeScript
-- C++,C,C#
-- PineScript
+- Python (Video Games)
+- HTML, CSS, PHP (Web)
+- JavaScript,TypeScript (Wordpress)
+- C++,C,C# (Arduino, RIP Software)
+- PineScript (TradingView)
+- Fusion360 (CAD, 3d Modeling)
+- Unreal Engine (Video Games, Twin Motion, MetaHuman Creator)
+- Adobe Creative Suite (Certified)
 
 
 <!---
