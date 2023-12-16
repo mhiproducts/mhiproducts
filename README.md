@@ -10,6 +10,10 @@
 - C++,C,C# (Arduino, RIP Software)
 - PineScript (TradingView)
 - Fusion360 (CAD, 3d Modeling)
+- Cura (3D Printing)
+- GRBL (Laser Cutting)
+- GCode (CNC+3D Printing)
+- Vectric Aspire (CNC)
 - Unreal Engine (Video Games, Twin Motion, MetaHuman Creator)
 - Adobe Creative Suite (Certified)
 
